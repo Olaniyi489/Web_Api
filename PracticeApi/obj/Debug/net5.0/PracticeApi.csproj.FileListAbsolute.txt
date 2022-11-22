@@ -1,0 +1,140 @@
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.exe
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.deps.json
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.runtimeconfig.json
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.runtimeconfig.dev.json
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\staticwebassets\PracticeApi.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\scopedcss\bundle\PracticeApi.styles.css
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\ref\PracticeApi.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.csproj.CopyComplete
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeCore.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeCore.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Practice.Data.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Practice.Data.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\obj\Debug\net5.0\refint\PracticeApi.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.exe
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.deps.json
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.runtimeconfig.json
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeApi.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Practice.Data.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeCore.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\Practice.Data.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\bin\Debug\net5.0\PracticeCore.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\scopedcss\bundle\PracticeApi.styles.css
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\staticwebassets\PracticeApi.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\refint\PracticeApi.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\PracticeApi.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeApi\obj\Debug\net5.0\ref\PracticeApi.dll

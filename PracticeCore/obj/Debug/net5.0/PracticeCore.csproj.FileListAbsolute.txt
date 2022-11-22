@@ -1,0 +1,30 @@
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\bin\Debug\net5.0\PracticeCore.deps.json
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\bin\Debug\net5.0\PracticeCore.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\bin\Debug\net5.0\PracticeCore.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\ref\PracticeCore.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\refint\PracticeCore.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\bin\Debug\net5.0\Practice.Data.dll
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\bin\Debug\net5.0\Practice.Data.pdb
+C:\Users\Decagon\source\repos\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\bin\Debug\net5.0\PracticeCore.deps.json
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\bin\Debug\net5.0\PracticeCore.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\bin\Debug\net5.0\PracticeCore.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\bin\Debug\net5.0\Practice.Data.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\bin\Debug\net5.0\Practice.Data.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\refint\PracticeCore.dll
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\PracticeCore.pdb
+C:\Users\Decagon\Desktop\Decagon Projects\Week8-Task\PracticeApi\PracticeCore\obj\Debug\net5.0\ref\PracticeCore.dll
