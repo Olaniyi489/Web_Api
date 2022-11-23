@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -7,9 +8,8 @@ using System.Threading.Tasks;
 
 namespace Practice.Data.Model
 {
-    public class ToDoList
-    { 
-
+    public class ToDoList 
+    {
         [Key]
         public int Id { get; set; }
         public string Task { get; set; }

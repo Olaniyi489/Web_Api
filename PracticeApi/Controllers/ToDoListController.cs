@@ -4,6 +4,8 @@ using PracticeCore.Interfaces;
 using PracticeCore.Services;
 using System.Threading.Tasks;
 using System;
+using System.Security.Cryptography.X509Certificates;
+using Practice.Data.Model;
 
 namespace PracticeApi.Controllers
 {
@@ -45,6 +47,54 @@ namespace PracticeApi.Controllers
 
             }
 
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetList()
+        {
+            var users = await _toDoList.GetAlltask();
+            if (users == null)
+            {
+                return NotFound("No Task Added to List");
+            }
+
+            return Ok(users);
+        }
+
+        [HttpGet("{Id}")]
+        public async Task<IActionResult> GetAList(int id)
+        {
+            try
+            {
+                var users = await _toDoList.GetTask(id);
+                if (users == null)
+                {
+                    return StatusCode(404, new { Message = "User not found !" });
+                }
+
+                return StatusCode(200, users);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest();
+            }
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateList([FromBody] ToDoListDto toDoListDto, [FromRoute] int id)
+        {
+            await _toDoList.UpdateTask(id, toDoListDto);
+
+            return StatusCode(201, new { message = "Task Updated Successfully !!" });
+        }
+
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> UpdateList([FromRoute] int id)
+        {
+            await _toDoList.DeleteTask(id);
+
+            return StatusCode(201, new { message = "Task Deleted Successfully !!" }); 
         }
     }
 }

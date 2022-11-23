@@ -10,8 +10,8 @@ using Practice.Data;
 namespace Practice.Data.Migrations
 {
     [DbContext(typeof(PracticeIdentityDbContext))]
-    [Migration("20221121215935_ToDoList_Table")]
-    partial class ToDoList_Table
+    [Migration("20221123022530_newTables")]
+    partial class newTables
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
